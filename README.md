@@ -1,3 +1,18 @@
 # Applied-ML-algorithms-using-DUMD-dataset ⚡
 
-## Abstract
+## Abstract ✅
+
+
+## Introduction ✅
+
+
+## Dataset ✅
+
+## Technologies ✅
+
+
+## Results ✅
+
+
+## contact 
+  
